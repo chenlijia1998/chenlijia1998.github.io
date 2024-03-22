@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen Lijia / Home Page"
+title                    : "Chen Lijia's Home Page"
 title_separator          : "-"
 name                     : &name "Chen Lijia"
 description              : &description "personal description"
