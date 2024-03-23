@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 
+XiHua University
 
 Technology
 ======
